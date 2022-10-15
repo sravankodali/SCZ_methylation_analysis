@@ -4,4 +4,9 @@ Explored methylation analysis pipelines and completed a 351-article literature r
 
 Completed work as part of the Laboratory of Behavioral and Psychiatric Genetics at SUNY Upstate (Dr. Chunyu Liu). 
 
+For the differential methylation analysis, I learned to utilize ChAMP (Chip Analysis Methylation Pipeline):
+
+![champ_workflow](https://user-images.githubusercontent.com/79488137/195998501-e849014a-87de-4e23-acb4-b5b38b1eec3b.PNG)
+
+
 
